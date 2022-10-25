@@ -1,26 +1,32 @@
 [
     {
-      "id": "01",
-      "name": "Structured Programming"
+      "id": "C1",
+      "category_id": "01",
+      "name": "Computer Science"
     },
     {
-      "id": "02",
-      "name": "Discrete Mathematics"
+      "id": "C2",
+      "category_id": "02",
+      "name": "Physics"
     },
     {
-      "id": "03",
-      "name": "Data Structure and Algorithms"
+      "id": "C3",
+      "category_id": "03",
+      "name": "Chemistry"
     },
     {
-      "id": "04",
-      "name": "Sports"
+      "id": "C4",
+      "category_id": "04",
+      "name": "Mathematics"
     },
     {
-      "id": "05",
-      "name": "Entertainment"
+      "id": "C5",
+      "category_id": "05",
+      "name": "Electrical Engineering"
     },
     {
-      "id": "06",
-      "name": "Culture"
+      "id": "C6",
+      "category_id": "06",
+      "name": "Web Development"
     }
 ]
