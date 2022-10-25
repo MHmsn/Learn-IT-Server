@@ -1,0 +1,26 @@
+[
+    {
+      "id": "01",
+      "name": "Structured Programming"
+    },
+    {
+      "id": "02",
+      "name": "Discrete Mathematics"
+    },
+    {
+      "id": "03",
+      "name": "Data Structure and Algorithms"
+    },
+    {
+      "id": "04",
+      "name": "Sports"
+    },
+    {
+      "id": "05",
+      "name": "Entertainment"
+    },
+    {
+      "id": "06",
+      "name": "Culture"
+    }
+]
