@@ -1,8 +1,51 @@
 [
     {
-      "id": "C1",
+      "id": "CS1",
       "category_id": "01",
-      "name": "Computer Science"
+      "name": "Structured Programming",
+      "img":"",
+      "details": "Learn the basics of structured programming with the language C. Learn the basic fundamentals like variables, conditionals, mathematical operations, loops, structures, functions etc.",
+      "Videos": "20"
+    },
+    {
+      "id": "CS2",
+      "category_id": "01",
+      "name": "Discrete Mathematics",
+      "img":"",
+      "details": "Learn the mathematics required to build up the logics behind programming, also Learn graphs and trees. ",
+      "Videos": "9"
+    },
+    {
+      "id": "CS3",
+      "category_id": "01",
+      "name": "Data Structure",
+      "img":"",
+      "details": "Learn the structures of data when stored and efficient methods of storing them. Learn Arrays, Stack, Queue, Linked Lists, Graphs, Trees, Linear Search, Binary Search, Bubble Sort, Insertion sort, Selection sort, Radix sort etc",
+      "Videos": "25"
+    },
+    {
+      "id": "CS4",
+      "category_id": "01",
+      "name": "Object Oriented Programming",
+      "img":"",
+      "details": "Learn the basics of object oriented programming with the language JAVA. Learn the basic fundamentals like variables, conditionals, mathematical operations, loops, structures, functions etc. Also learn object oriented programming fundamentals like classes, objects, inheritence, polymorphism etc.",
+      "Videos": "16"
+    },
+    {
+      "id": "CS5",
+      "category_id": "01",
+      "name": "Digital Logic Design",
+      "img":"",
+      "details": "Learn how to design certain circuits using ICs and logic gates. Learn how to minimize and make a circuit efficiently. ",
+      "Videos": "9"
+    },
+    {
+      "id": "CS6",
+      "category_id": "01",
+      "name": "Algorithms",
+      "img":"",
+      "details": "Learn how to create basic steps to solve a programming problem. Also learn to make the programs run faster and consume less storage. Learn the concepts of Time and Space Complexity.",
+      "Videos": "12"
     },
     {
       "id": "C2",
