@@ -3,73 +3,199 @@
       "id": "CS1",
       "category_id": "01",
       "name": "Structured Programming",
-      "img":"",
+      "img":"https://i.pinimg.com/originals/8d/da/53/8dda53ef87ba3fdc4848ec62ab66ea22.png",
       "details": "Learn the basics of structured programming with the language C. Learn the basic fundamentals like variables, conditionals, mathematical operations, loops, structures, functions etc.",
-      "Videos": "20"
+      "videos": "20",
+      "price": "$20"
+
     },
     {
       "id": "CS2",
       "category_id": "01",
       "name": "Discrete Mathematics",
-      "img":"",
+      "img":"https://c8.alamy.com/zooms/9/9e879e148d8f4e809bd18ceec8693c0f/2h2tght.jpg",
       "details": "Learn the mathematics required to build up the logics behind programming, also Learn graphs and trees. ",
-      "Videos": "9"
+      "videos": "9",
+      "price": "$10"
     },
     {
       "id": "CS3",
       "category_id": "01",
       "name": "Data Structure",
-      "img":"",
+      "img":"https://1.bp.blogspot.com/-a7DdgbEdurI/YGahhKYC52I/AAAAAAAAM80/TEqVqfLPzn4f1fQhZJ3ITDvTGBvmrFTPQCLcBGAsYHQ/w1200-h630-p-k-no-nu/OIP.jpg",
       "details": "Learn the structures of data when stored and efficient methods of storing them. Learn Arrays, Stack, Queue, Linked Lists, Graphs, Trees, Linear Search, Binary Search, Bubble Sort, Insertion sort, Selection sort, Radix sort etc",
-      "Videos": "25"
+      "videos": "25",
+      "price": "$20"
     },
     {
       "id": "CS4",
       "category_id": "01",
       "name": "Object Oriented Programming",
-      "img":"",
+      "img":"https://apexensino.com.br/wp-content/uploads/2017/03/banner-java.jpg",
       "details": "Learn the basics of object oriented programming with the language JAVA. Learn the basic fundamentals like variables, conditionals, mathematical operations, loops, structures, functions etc. Also learn object oriented programming fundamentals like classes, objects, inheritence, polymorphism etc.",
-      "Videos": "16"
+      "videos": "16",
+      "price": "$20"
     },
     {
       "id": "CS5",
       "category_id": "01",
       "name": "Digital Logic Design",
-      "img":"",
+      "img":"https://img.freepik.com/premium-vector/technological-banner-backgroundelectronic-circuit-board_531521-268.jpg?w=2000",
       "details": "Learn how to design certain circuits using ICs and logic gates. Learn how to minimize and make a circuit efficiently. ",
-      "Videos": "9"
+      "videos": "9",
+      "price": "$10"
     },
     {
       "id": "CS6",
       "category_id": "01",
       "name": "Algorithms",
-      "img":"",
+      "img":"https://www.analyticssteps.com/backend/media/thumbnail/7931437/8464794_1606298954_algo.jpg",
       "details": "Learn how to create basic steps to solve a programming problem. Also learn to make the programs run faster and consume less storage. Learn the concepts of Time and Space Complexity.",
-      "Videos": "12"
+      "videos": "12",
+      "price": "$15"
     },
     {
-      "id": "C2",
+      "id": "PH1",
       "category_id": "02",
-      "name": "Physics"
+      "name": "Classical Mechanics",
+      "img":"https://commoncore.hku.hk/wp-content/uploads/2016/07/CCST9056-banner.jpg",
+      "details": "Learn how everything in our world moves. Learn about the forces that works behind movement of every object around us. Learn about Newton's Law, Projectiles, motion, circular motion etc.",
+      "videos": "14",
+      "price": "$15"
     },
     {
-      "id": "C3",
+      "id": "PH2",
+      "category_id": "02",
+      "name": "Electricity and Electronics",
+      "img":"https://www.securitymagazine.com/ext/resources/images/cyber-security-freepik-4.jpg?1616114995",
+      "details": "Learn about the fundamentals of a famous power which is widely used in our society, Electricity. Learn how it works and how we can properly use it to build devices to make our life more convenient. Learn about Laws of electricity, circuits, Ohm's Law, KCL, KVL, Semi conductors etc",
+      "videos": "11",
+      "price": "$15"
+    },
+    {
+      "id": "PH3",
+      "category_id": "02",
+      "name": "Fluid Mechanics",
+      "img":"https://us.123rf.com/450wm/ahasoft2000/ahasoft20001806/ahasoft2000180620422/103274850-water-drop-service-cog-mosaic-of-workshop-instruments-vector-water-drop-service-cog-icon-is-made-fro.jpg?ver=6",
+      "details": "Learn how fluids move and work. Learn about the mechanics of Gas, Liquid, Statics and Dynamics. Also Learn about Compressibility, Density, Viscosity, Surface Tension etc.",
+      "videos": "14",
+      "price": "$15"
+    },
+    {
+      "id": "PH4",
+      "category_id": "02",
+      "name": "Introduction to Astronomy",
+      "img":"https://cdnb.artstation.com/p/assets/images/images/029/971/859/large/keavon-chambers-astronomy.jpg?1599190249",
+      "details": "Learn about the most amazing side of the Physics and about this universe. Learn how this universe and celestial objects work. Learn about Planets, Stars, Nebula, Galaxy, Gravity, Black Hole, Giant Stars, Neutron Stars, Relativity etc",
+      "videos": "30",
+      "price": "$25"
+    },
+    {
+      "id": "CH1",
       "category_id": "03",
-      "name": "Chemistry"
+      "name": "Periodic Table and Chemical Reaction",
+      "img":"https://timelinecovers.pro/facebook-cover/download/periodic-table-of-elements-educational-facebook-cover.jpg",
+      "details": "Learn what makes up every object in our life. Learn about 118 Unique elements that make up everything in our universe. Learn about atoms, proton, neutron, electron, periodic features, chemical reactions, different types of reactions etc",
+      "videos": "14",
+      "price": "$15"
     },
     {
-      "id": "C4",
+      "id": "CH2",
+      "category_id": "03",
+      "name": "Organic Chemistry",
+      "img":"https://www.organicdivision.org/wp-content/uploads/2015/05/home-banner.jpg",
+      "details": "Learn what makes up organic bodies in our universe. Learn about Alkene, Alkane, Alkyne, Alcohol, Ester,how to name organic molecules, Organic Reactions, HydroCarbon Molecules etc.",
+      "videos": "20",
+      "price": "$20"
+    },
+    {
+      "id": "CH3",
+      "category_id": "03",
+      "name": "Electro Chemistry",
+      "img":"https://i.pinimg.com/originals/43/36/b2/4336b2c1c2f555f641e78a78d1c7353f.jpg",
+      "details": "Learn about the chemistry behind batteries and electricity. Learn about Galvanic Cell, Anode Reaction, Cathode Reaction, Salt Bridge, Dry Cell, Redox Reactions, Rechargeable Cells etc",
+      "videos": "16",
+      "price": "$20"
+    },
+    {
+      "id": "MT1",
       "category_id": "04",
-      "name": "Mathematics"
+      "name": "Calculus",
+      "img":"https://miro.medium.com/max/1109/1*P-jCQu6fhfliMLPz5-BYdQ.jpeg",
+      "details": "Learn about the most famous topic of Math of all time. Learn how Calculus helps us to calculate any function with just slight change. Learn about Differentiation, Limits, Partial Differentiations, Differential equations, Partial Differential Equations, Integration, Integrals, Definite and Indefinite Integrals, UV(LIATE) law for integrals etc.",
+      "videos": "22",
+      "price": "$25"
     },
     {
-      "id": "C5",
+      "id": "MT2",
+      "category_id": "04",
+      "name": "Probability and Statistics",
+      "img":"https://www.merlot.org/merlot/images/portal-banners-mobile/statistics_banner-mobile.jpg",
+      "details": "Learn about the most important tool for science, statistics. Also Learn about Probability. Learn about Mean, Median, Average, Different types of Average, Standard Deviation, Mean Deviation, Probability, Probability Tree, conditional probability, dependent probability etc",
+      "videos": "24",
+      "price": "$25"
+    },
+    {
+      "id": "MT3",
+      "category_id": "04",
+      "name": "Trigonometry",
+      "img":"https://robomateplus.com/wp-content/uploads/2017/04/banner8-1.jpg",
+      "details": "Learn about the magics of right triangles. Learn how the angles are related to each other and how to calculate the angles with just the sides. Learn about basic trigonometry, conversions, inverse trigonometry, Application of Trigonometry, Trigonometric Functions, Quadrants etc ",
+      "videos": "23",
+      "price": "$25"
+    },
+    {
+      "id": "EE1",
       "category_id": "05",
-      "name": "Electrical Engineering"
+      "name": "Introduction to Electrical Engineering",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxvqU278VcGLvh2MgdVRblTqihab_U_SYFQQ&usqp=CAU",
+      "details": "Learn about the basics of electricity and how it works. Learn about potentials, potential difference, potential point, current flow, resistance, charge etc",
+      "videos": "12",
+      "price": "$15"
     },
     {
-      "id": "C6",
+      "id": "EE2",
+      "category_id": "05",
+      "name": "Electrical Circuits",
+      "img":"https://thumbs.dreamstime.com/b/electronics-circuits-banner-line-dots-circuit-board-communication-concept-technology-background-181914107.jpg",
+      "details": "Learn how to build up a circuit efficiently. Learn about Series Circuits, Parallel Circuits, How to use Breadboards, Resistors, Ammeter , VoltMeter, Capacitors etc",
+      "videos": "13",
+      "price": "$15"
+    },
+    {
+      "id": "WD1",
       "category_id": "06",
-      "name": "Web Development"
+      "name": "HTML5 and CSS3",
+      "img":"https://openwebsolutions.in/blog/wp-content/uploads/2018/01/banner-1.jpg",
+      "details": "Start learning the basics of Web Development with HTML and CSS. Learn HTML tags, Paragraph, Heading, Images, Links, Tables, Semantic Tags, Styles, Media Queries, CSS Animation etc ",
+      "videos": "28",
+      "price": "$25"
+    },
+    {
+      "id": "WD2",
+      "category_id": "06",
+      "name": "CSS frameworks Bootstrap and Tailwind",
+      "img":"https://tec-sense.com/wp-content/uploads/2021/10/tailwindcss-bootstrap.png",
+      "details": "Dive Deeper with CSS as you learn 2 of it's most famous frameworks, Bootstrap and Tailwind. Learn how to use the documentation, text formatting, Carousel, Cards, Buttons, Components, Animations, Accordions etc.",
+      "videos": "20",
+      "price": "$20"
+    },
+    {
+      "id": "WD3",
+      "category_id": "06",
+      "name": "Introduction to JavaScript and Problem Solving",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrG_CovRIMtUaPri28VWq89mlnhMZUy56vbw&usqp=CAU",
+      "details": "Get introduced to javascript as a programming language. Learn the basic programming fundamentals like Variables, Conditionals, Loops, Arrays, Objects, Basic Problems etc",
+      "videos": "17",
+      "price": "$20"
+    },
+    {
+      "id": "WD4",
+      "category_id": "06",
+      "name": "JavaScript Framework : React.JS",
+      "img":"https://augnitive.com/wp-content/uploads/2019/10/reactbanner.png",
+      "details": "Get introduced to the most famous and widely used framework of JavaScript, React.JS. Learn more about this component based framework, also hooks, APIs, Context, State, React Bootstrap, React Tailwind etc",
+      "videos": "29",
+      "price": "$30"
     }
 ]
